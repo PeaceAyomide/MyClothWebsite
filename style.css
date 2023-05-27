@@ -113,12 +113,12 @@
     }
     #btn-login{
         width: 50px;
-        height: 5vh;
+        height: 7vh;
         font-size: 13px;
     }
     #btn-signup{
         width: 60px;
-        height: 5vh;
+        height: 7vh;
         font-size: 13px;
     }
 }
@@ -257,6 +257,10 @@
     .home-section{
         height: 150vh;
     }
+    .home .img img{
+        width: 35%;
+    }
+
 }
 @media screen and (max-width:550px){
     .home-section{
